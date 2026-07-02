@@ -93,3 +93,29 @@ label{
     margin-top: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+@media (max-width: 768px) {
+.Password-container{
+    display: flex;
+    flex-direction: column;
+}
+label{
+margin-bottom: 20px;
+}
+#copy-btn{
+    margin-left: 10px;
+    padding: 12px;
+}
+.first-text{
+    font-size: 2em;
+}
+.second-text{
+font-size: 2em;
+}
+p{
+    font-size: 1.2em;
+}
+#generate-btn{
+    padding: 12px;
+}
+}
