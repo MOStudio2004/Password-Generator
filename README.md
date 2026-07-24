@@ -17,7 +17,7 @@ A simple password generator built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Password Generator](Screenshot (24).png)
+![password generator Preview](Screenshot2.png)
 
 
 ## 📂 Project Structure
